@@ -1,7 +1,7 @@
-#Battle Royale Knockout for Minecraft
-######Developed by MangoBox (Liam Davies) 2018 
+# Battle Royale Knockout for Minecraft
+###### Developed by MangoBox (Liam Davies) 2018 
 
-#####You can find the .jar download here:
+##### You can find the .jar download here:
 https://www.dropbox.com/s/sfjogbqhkpd3ec7/BattleRoyaleKnockout.jar?dl=0
 
 In order to install this plugin, all you need to do is drag the **BattleRoyaleKnockout.jar**
