@@ -1,0 +1,6 @@
+name: BattleRoyaleKnockout
+main: mangobox.main.Knockout
+version: 1.0
+description: A plugin by MangoBox that introduces Battle Royale-Style knockout mechanics to Minecraft.
+author: MangoBox
+website: https://github.com/MangoBox
